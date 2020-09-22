@@ -1,7 +1,7 @@
 # A03
 Part 1: Direction of using Webstorm
 
-    1) Download Webstorm from the website called: **https://www.jetbrains.com/community/education/#students**
+  1) Download Webstorm from the website called: **https://www.jetbrains.com/community/education/#students**
 
   2) Click the button called **"Apply Now"**, fill in all the needed information, and then click **"Apply For Free Products"** 
 
