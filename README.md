@@ -32,9 +32,9 @@ Import file to Github:
 
   14) To push it on Github, in the "VCS" tab, mouse over "Import into Version Control", then choose "Share Project on Github" (you need to fill in the username and       password), and click the "Share" button (there should be a message pop-up at the bottom right corner tell you that you "Successfully shared project on Github"
 
-  15) log in to Github and the new repository with the index.html file should be inside
+  15) Log in to Github and the new repository with the index.html file should be inside
 
-Download Git on https://git-scm.com/ and then follow the install instructions
+      Download Git on https://git-scm.com/ and then follow the install instructions
 
 Part 2: Git and Github Terms:
 
