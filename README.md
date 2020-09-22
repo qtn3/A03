@@ -10,6 +10,7 @@ Part 1: Direction of using Webstorm
 8) Give the file a name (in this case is index.html)
 9) Inside the index.html file, you need to give it some content
 10) To check to see if the webpage works correctly or not, on the right side there is a little box contains different browsers inside (Chrome, Safari, Firefox, Mozilla,...), choose whatever browser you prefer to display the webpage.
+
 Import file to Github:
 11) On the topmost, find the tab named "VCS" (stands for Version Control System), click on that and choose "Import into Version Control", mouse over it and you will see a panel display next to it, choose "Create Git Repository..." then choose the index.html file
 12) Now when you click on the "VCS" tab, there should be a new tab named "Git" show up (if you do not see the new tab, inside the "VCS" tab, there is a tab named "Enable Version Control Integration...", click on that and in the dropdown menu choose "Git" and then click "OK", make sure you downloaded Git into the computer)
