@@ -1,38 +1,38 @@
 # A03
 Part 1: Direction of using Webstorm
 
-1) Download Webstorm from the website called: https://www.jetbrains.com/community/education/#students 
+  1) Download Webstorm from the website called: https://www.jetbrains.com/community/education/#students 
 
-2) Click the button called "Apply Now", fill in all the needed information, and then click "Apply For Free Products" 
+  2) Click the button called "Apply Now", fill in all the needed information, and then click "Apply For Free Products" 
 
-3) Install Webstorm follow the instructions
+  3) Install Webstorm follow the instructions
 
-4) Open Webstorm by clicking on the app icon
+  4) Open Webstorm by clicking on the app icon
 
-5) Create the first project by clicking on the plus sign named "New Project"
+  5) Create the first project by clicking on the plus sign named "New Project"
 
-6) Give the first project a name, a location to store it, and click the button named "Create"
+  6) Give the first project a name, a location to store it, and click the button named "Create"
 
-7) To create the first file (in this case is HTML5 file) on the left panel, you right-click on the name of the folder which you did create on Step 6 and choose 
-"New" -> "HTML5"
+  7) To create the first file (in this case is HTML5 file) on the left panel, you right-click on the name of the folder which you did create on Step 6 and choose 
+     "New" -> "HTML5"
 
-8) Give the file a name (in this case is index.html)
+  8) Give the file a name (in this case is index.html)
 
-9) Inside the index.html file, you need to give it some content
+  9) Inside the index.html file, you need to give it some content
 
-10) To check to see if the webpage works correctly or not, on the right side there is a little box contains different browsers inside (Chrome, Safari, Firefox, Mozilla,...), choose whatever browser you prefer to display the webpage.
+  10) To check to see if the webpage works correctly or not, on the right side there is a little box contains different browsers inside (Chrome, Safari, Firefox,         Mozilla,...), choose whatever browser you prefer to display the webpage.
 
 Import file to Github:
 
-11) On the topmost, find the tab named "VCS" (stands for Version Control System), click on that and choose "Import into Version Control", mouse over it and you will see a panel display next to it, choose "Create Git Repository..." then choose the index.html file
+  11) On the topmost, find the tab named "VCS" (stands for Version Control System), click on that and choose "Import into Version Control", mouse over it and you         will see a panel display next to it, choose "Create Git Repository..." then choose the index.html file
 
-12) Now when you click on the "VCS" tab, there should be a new tab named "Git" show up (if you do not see the new tab, inside the "VCS" tab, there is a tab named "Enable Version Control Integration...", click on that and in the dropdown menu choose "Git" and then click "OK", make sure you downloaded Git into the computer)
+  12) Now when you click on the "VCS" tab, there should be a new tab named "Git" show up (if you do not see the new tab, inside the "VCS" tab, there is a tab named       "Enable Version Control Integration...", click on that and in the dropdown menu choose "Git" and then click "OK", make sure you downloaded Git into computer)
 
-13) When you mouse over the "Git" tab inside the "VCS" tab, choose "Commit Files...", choose index.html file from the left panel, and click the "Commit" button
+  13) When you mouse over the "Git" tab inside the "VCS" tab, choose "Commit Files...", choose index.html file from the left panel, and click the "Commit" button
 
-14) To push it on Github, in the "VCS" tab, mouse over "Import into Version Control", then choose "Share Project on Github" (you need to fill in the username and password), and click the "Share" button (there should be a message pop-up at the bottom right corner tell you that you "Successfully shared project on Github"
+  14) To push it on Github, in the "VCS" tab, mouse over "Import into Version Control", then choose "Share Project on Github" (you need to fill in the username and       password), and click the "Share" button (there should be a message pop-up at the bottom right corner tell you that you "Successfully shared project on Github"
 
-15) log in to Github and the new repository with the index.html file should be inside
+  15) log in to Github and the new repository with the index.html file should be inside
 
 Download Git on https://git-scm.com/ and then follow the install instructions
 
